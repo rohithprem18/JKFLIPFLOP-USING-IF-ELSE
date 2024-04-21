@@ -95,5 +95,6 @@ endmodule
 ![TMINING_DIAGAA](https://github.com/rohithprem18/JKFLIPFLOP-USING-IF-ELSE/assets/146315115/154647e5-c0fe-4a87-aceb-b2d567ec02c4)
 
 **RESULTS**
+
 Thus,the code executed successfully.
 
